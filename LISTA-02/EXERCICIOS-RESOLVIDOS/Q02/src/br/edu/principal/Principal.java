@@ -25,7 +25,7 @@ public class Principal {
         System.out.print("Digite o terceira nota: ");
         nota3 = sc.nextDouble();
         
-        if(nota2 < 0 || nota2 > 10){
+        if(nota3 < 0 || nota3 > 10){
         	System.out.println("Nota Inválida!");
         	return;
         } 
