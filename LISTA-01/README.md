@@ -1,5 +1,7 @@
 ## EXERCICIOS RESOLVIDOS
 
+### Cap. 3 - Estrutura Sequencial (1-10)
+
 1 - Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
 2 - Faça um programa que receba três notas, calcule e mostre a média aritmética.
@@ -28,6 +30,8 @@ valor do rendimento e o valor total depois do rendimento.
 
 
 ## EXERCICIOS PROPOSTOS
+
+### Cap. 3 - Estrutura Sequencial (1-10)
 
 1 - Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
 segundo.
