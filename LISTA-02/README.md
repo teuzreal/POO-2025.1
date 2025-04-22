@@ -1,5 +1,11 @@
 ## EXERCICIOS RESOLVIDOS
 
+### Cap. 4 - Estrutura Condicional (1-10)
+
+### Cap. 5 - Estrutura de Repetição (11-20)
+
+
+
 1 - A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-
 lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
 obedece aos pesos a seguir: 2, 3 e 5
@@ -41,7 +47,50 @@ mês por extenso e hora: minuto.
 usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o
 segundo, o mês e o terceiro, o ano.
 
+11 - Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
+
+a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
+
+b) Em 2006, ele recebeu aumento de 1,5% sobre seu salário inicial.
+
+c) A partir de 2007 (inclusive), os aumentos salariais sempre corresponderam ao dobro do percentual do ano
+anterior.
+
+12 - Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a
+fórmula a seguir:
+
+E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
+
+13 - Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser
+lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
+
+14 - Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito.
+Foram obtidos os seguintes dados:
+
+a) código da cidade;
+
+b) número de veículos de passeio;
+
+c) número de acidentes de trânsito com vítimas.
+
+Deseja-se saber:
+
+a) qual é o maior e qual é o menor índice de acidentes de trânsito e a que cidades pertencem;
+
+b) qual é a média de veículos nas cinco cidades juntas;
+
+c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
+
+15 - Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
+da série a seguir.
+
 ## EXERCICIOS PROPOSTOS
+
+### Cap. 4 - Estrutura Condicional (1-10)
+
+### Cap. 5 - Estrutura de Repetição (11-20)
+
+
 
 1 - Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a
 mensagem de aprovado ou reprovado, considerando para aprovação média 7.
