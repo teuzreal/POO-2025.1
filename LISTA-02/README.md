@@ -1,10 +1,7 @@
 ## EXERCICIOS RESOLVIDOS
 
 ### Cap. 4 - Estrutura Condicional (1-10)
-
 ### Cap. 5 - Estrutura de Repetição (11-20)
-
-
 
 1 - A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho
 de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
