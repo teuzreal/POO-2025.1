@@ -1,14 +1,37 @@
-# Disciplina-POO-2025.1
+# Programação Orientada a Objetos - 2025.1
 
-### Repositório Das Listas de POO. 
+## Repositório das Listas de Exercícios de POO
 
-LISTA 01: Os 10 Primeiro Exercícios RESOLVIDOS E PROPOSTOS dos Capítulos (20): 
-- Cap. 03 (Estrutura Sequencial)
+Este repositório contém as listas de exercícios desenvolvidas em Java para o curso de **Programação Orientada a Objetos** (POO) do semestre 2025.1. O objetivo é auxiliar o aprendizado prático dos conceitos fundamentais da programação, por meio da resolução e proposição de exercícios que envolvem estruturas sequenciais, condicionais, laços, vetores e sub-rotinas.
 
-LISTA 02: Os 10 Primeiro Exercícios RESOLVIDOS E PROPOSTOS dos Capítulos (40):
-- Cap. 04 (Estrutura Condicional) 
-- Cap. 05 (Estrutura de Repetição)
-  
-LISTA 03:  Os 10 primeiros Exercícios Resolvidos dos Capítulos (20):
-- Cap. 06 (Vetor)
-- Cap. 08 (Sub-rotina)
+---
+
+## Objetivo
+
+O propósito deste repositório é proporcionar uma base sólida para estudantes que estão iniciando ou aprofundando seus conhecimentos em POO, trabalhando diretamente com problemas comuns e estruturados. As listas contemplam exercícios que reforçam o entendimento de conceitos teóricos e sua aplicação prática em Java.
+
+---
+
+## Estrutura das Listas
+
+As listas estão organizadas em três grupos principais, cada uma focada em capítulos específicos do material didático:
+
+### LISTA 01  
+- **Capítulo 03: Estrutura Sequencial**  
+
+### LISTA 02  
+- **Capítulo 04: Estrutura Condicional**  
+- **Capítulo 05: Estrutura de Repetição**  
+
+### LISTA 03  
+- **Capítulo 06: Vetor**  
+- **Capítulo 08: Sub-rotina**  
+
+---
+
+## Tecnologias e Ferramentas
+
+- **Linguagem:** Java  
+- **Paradigma:** Programação Orientada a Objetos  
+- **IDE's Utilizadas:** IntelliJ IDEA e Eclipse.  
+
