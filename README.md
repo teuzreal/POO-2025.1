@@ -1,18 +1,18 @@
 # Programação Orientada a Objetos - 2025.1
 
-## Repositório das Listas de Exercícios de POO
+### Repositório das Listas de Exercícios de POO
 
 Este repositório contém as listas de exercícios desenvolvidas em Java para o curso de **Programação Orientada a Objetos** (POO) do semestre 2025.1. O objetivo é auxiliar o aprendizado prático dos conceitos fundamentais da programação, por meio da resolução e proposição de exercícios que envolvem estruturas sequenciais, condicionais, laços, vetores e sub-rotinas.
 
 ---
 
-## Objetivo
+### Objetivo
 
 O propósito deste repositório é proporcionar uma base sólida para estudantes que estão iniciando ou aprofundando seus conhecimentos em POO, trabalhando diretamente com problemas comuns e estruturados. As listas contemplam exercícios que reforçam o entendimento de conceitos teóricos e sua aplicação prática em Java.
 
 ---
 
-## Estrutura das Listas
+### Estrutura das Listas
 
 As listas estão organizadas em três grupos principais, cada uma focada em capítulos específicos do material didático:
 
@@ -29,7 +29,7 @@ As listas estão organizadas em três grupos principais, cada uma focada em cap�
 
 ---
 
-## Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 - **Linguagem:** Java  
 - **Paradigma:** Programação Orientada a Objetos  
